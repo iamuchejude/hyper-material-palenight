@@ -1,0 +1,16 @@
+{
+  "name": "hyper-material-palenight",
+  "version": "1.0.0",
+  "description": "Hyper theme based on Material palenight theme for VSCode",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "material-palenight",
+    "hyper-material-palenight",
+    "theme",
+    "terminal"
+  ],
+  "author": "Uche Jude",
+  "license": "MIT"
+}
